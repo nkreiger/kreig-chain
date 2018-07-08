@@ -1,4 +1,16 @@
-## HOw to use this on postman...cryptocurrency in action
+
+
+## KREIG-CHAIN...Blockchain and Cryptocurrency built from scratch by yours truly...
+
+# Working blockchain storage and cryptocurrency (wallets, transactions, verification, signatures...etc)
+
+
+# built with node.js
+
+## FRONTEND COMING SOON that will make requests via an API to the chain
+
+
+## How to use this on postman...cryptocurrency in action
 
 #1. Launch multiple servers...npm run dev ... new one then HTTP_PORT=3002 P2P_PORT=5002 PEERS=ws://localhost:5001 npm run dev... and so on
 
